@@ -306,9 +306,9 @@ section .row span{margin-top:2rem}
     height:100vh;
     display:flex;
     align-items:center;
-    background:#fff;
+    background:#000000;
     font-weight:400;
-    color:#272341;
+    color:#ffffff;
     padding:0rem 5.6rem;
     top:0;
     left:0;
