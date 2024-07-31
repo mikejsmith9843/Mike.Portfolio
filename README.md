@@ -15,6 +15,7 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
+![Screenshot 2024-07-31 130912](https://github.com/user-attachments/assets/a393d771-1bad-4270-b807-271f79f06199)
 
 This is a porfolio I would like to grow and change over time. This was an exciting project!
 
